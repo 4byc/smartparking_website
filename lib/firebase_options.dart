@@ -60,29 +60,33 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCAPQQz5SRMXaUrh8S88OxR2vGG_iG3Cvc',
-    appId: '1:664344701637:ios:55f789355d34889ca4deac',
+    appId: '1:664344701637:ios:a0c133c632f6b1f4a4deac',
     messagingSenderId: '664344701637',
     projectId: 'smart-parking-41b2c',
     storageBucket: 'smart-parking-41b2c.appspot.com',
-    iosBundleId: 'com.example.smartparkingWebsite',
+    androidClientId: '664344701637-lp0eotli86p1r41dothq2tu5r0qql456.apps.googleusercontent.com',
+    iosClientId: '664344701637-t2ba26g8fuen0il7nrkllc69dcll8fm3.apps.googleusercontent.com',
+    iosBundleId: 'com.example.dummywebsite',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyCAPQQz5SRMXaUrh8S88OxR2vGG_iG3Cvc',
-    appId: '1:664344701637:ios:55f789355d34889ca4deac',
+    appId: '1:664344701637:ios:a0c133c632f6b1f4a4deac',
     messagingSenderId: '664344701637',
     projectId: 'smart-parking-41b2c',
     storageBucket: 'smart-parking-41b2c.appspot.com',
-    iosBundleId: 'com.example.smartparkingWebsite',
+    androidClientId: '664344701637-lp0eotli86p1r41dothq2tu5r0qql456.apps.googleusercontent.com',
+    iosClientId: '664344701637-t2ba26g8fuen0il7nrkllc69dcll8fm3.apps.googleusercontent.com',
+    iosBundleId: 'com.example.dummywebsite',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyDbN1ZngJh3O-NYwkIswFqFoNmC_9n1HZw',
-    appId: '1:664344701637:web:8a1b54d0091f6850a4deac',
+    appId: '1:664344701637:web:b713c8120d264993a4deac',
     messagingSenderId: '664344701637',
     projectId: 'smart-parking-41b2c',
     authDomain: 'smart-parking-41b2c.firebaseapp.com',
     storageBucket: 'smart-parking-41b2c.appspot.com',
-    measurementId: 'G-LPD37D0HGN',
+    measurementId: 'G-FT76NK0Y8E',
   );
 }

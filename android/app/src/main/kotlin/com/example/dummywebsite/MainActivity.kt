@@ -1,4 +1,4 @@
-package com.example.smartparking_website
+package com.example.dummywebsite
 
 import io.flutter.embedding.android.FlutterActivity
 
