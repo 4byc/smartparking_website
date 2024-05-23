@@ -1,6 +1,6 @@
 {
-    "name": "dummywebsite",
-    "short_name": "dummywebsite",
+    "name": "smartparking_website",
+    "short_name": "smartparking_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

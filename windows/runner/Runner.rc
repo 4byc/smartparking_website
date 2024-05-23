@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "dummywebsite" "\0"
+            VALUE "FileDescription", "smartparking_website" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "dummywebsite" "\0"
+            VALUE "InternalName", "smartparking_website" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "dummywebsite.exe" "\0"
-            VALUE "ProductName", "dummywebsite" "\0"
+            VALUE "OriginalFilename", "smartparking_website.exe" "\0"
+            VALUE "ProductName", "smartparking_website" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
